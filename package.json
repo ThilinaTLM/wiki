@@ -1,0 +1,18 @@
+{
+    "name": "tlm-wiki",
+    "version": "0.0.1",
+    "description": "Personal notes and logs",
+    "main": "index.js",
+    "authors": {
+        "name": "Thilina Lakshan",
+        "email": "thilinalakshanmail@gmail.com"
+    },
+    "scripts": {
+        "dev": "vuepress dev src",
+        "build": "vuepress build src"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "vuepress": "^0.14.11"
+    }
+}
